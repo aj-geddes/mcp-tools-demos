@@ -1,0 +1,24 @@
+{
+  "name": "Sample JSON",
+  "description": "This is a sample JSON file for the read_file example",
+  "version": "1.0.0",
+  "properties": {
+    "created": "2025-06-13",
+    "author": "Claude",
+    "purpose": "Demonstration"
+  },
+  "data": [
+    {
+      "id": 1,
+      "value": "First item"
+    },
+    {
+      "id": 2,
+      "value": "Second item"
+    },
+    {
+      "id": 3,
+      "value": "Third item"
+    }
+  ]
+}
