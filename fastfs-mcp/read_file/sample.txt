@@ -1,0 +1,5 @@
+This is a sample text file.
+It contains multiple lines of text.
+You can read it using the read_file tool.
+
+This demonstrates how to read plain text files.
